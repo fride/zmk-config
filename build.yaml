@@ -13,4 +13,5 @@
 #
 ---
 include:
-  - board: ferris_rev02
+   - board: glove80_lh
+   - board: glove80_rh
